@@ -1,2 +1,0 @@
-# yadong.github.io
-hexo
